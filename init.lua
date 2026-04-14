@@ -40,4 +40,5 @@ require("lazy").setup({
 	require("plugins.nvim-cmp.nvim-cmp"),
 	require("plugins.conform.conform"),
 	require("plugins.linting.linting"),
+	require("plugins.supermaven.supermaven"),
 })
